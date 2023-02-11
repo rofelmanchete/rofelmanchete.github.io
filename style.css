@@ -48,8 +48,6 @@ body {
     font-size: 18px
   }
   img {
-    width: 200px;
-    height: 300px;
-    border-radius: 50%;
-    border: 2px solid black;
+    width: 100%;
+    
   }
