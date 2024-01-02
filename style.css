@@ -11,6 +11,11 @@
   background-size: cover;
   background-position: center;
 }
+#about{
+  background-color: black;
+  color: white;
+  padding: 100px;
+}
 nav{
   display: flex;
   align-items: center;
